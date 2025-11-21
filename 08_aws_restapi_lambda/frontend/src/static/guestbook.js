@@ -1,7 +1,7 @@
 "use strict";
 
 // fill in your API Gateway endpoint here
-const baseApiUrl = "<FMI>";
+const baseApiUrl = "https://3tnb0525xg.execute-api.us-east-1.amazonaws.com/prod/entries";
 
 /** Display the guestbook entries
  *
